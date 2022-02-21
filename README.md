@@ -1,2 +1,5 @@
-# bus4-118w
-A collection of assignments from BUS4 118W at SJSU. Will cover HTMl, CSS, and JavaScript.
+# About Me
+
+Hello! This repo will cover homework given in my BUS4 118W class.
+
+It will also include any projects that we do.
